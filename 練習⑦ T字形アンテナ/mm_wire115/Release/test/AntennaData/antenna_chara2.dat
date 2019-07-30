@@ -1,0 +1,5 @@
+ [antenna_chara2.dat]
+
+ >>---------PARA ---------<< ** >>------- Impedance -------- ------<< ** >>-------    Max Direction Gain&AR(dB) -----<< ** >>------  0(deg) Gain&AR(dB)  -----<<
+         para1         para2 **    Zin.re    Zin.im  VSWR-50  VSWR-75 **    Angle        Er        El     Er+El      AR **        Er        El     Er+El      AR
+      0.001000      0.000300 **     28.58    217.14   35.286   24.961 **   80.000     1.283     1.283     4.294  60.000 **   -60.000   -60.000   -60.000  60.000

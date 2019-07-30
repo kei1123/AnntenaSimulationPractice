@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="mm_wire">
+</Property><Property Name="ソリューション ファイル" Value="E:\ゼミ\プログラム\練習① 半波長ダイポール\tajimaＭＯＭ(保存用)\mm_wire115\mm_wire.sln">
+</Property><Property Name="ユーザー オプション ファイル" Value="E:\ゼミ\プログラム\練習① 半波長ダイポール\tajimaＭＯＭ(保存用)\mm_wire115\mm_wire.suo">
+</Property><Property Name="Date" Value="2015年12月14日">
+</Property><Property Name="Time" Value="14:31">
+</Property><Property Name="ログ番号" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="mm_wire.sln" Description="ファイルは正常に E:\ゼミ\プログラム\練習① 半波長ダイポール\tajimaＭＯＭ(保存用)\mm_wire115\mm_wire.sln.old としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="" Source="mm_wire.suo" Description="ファイルは正常に E:\ゼミ\プログラム\練習① 半波長ダイポール\tajimaＭＯＭ(保存用)\mm_wire115\mm_wire.suo.old としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="mm_wire" Source="mm_wire.vcproj" Description="Converting project file 'E:\ゼミ\プログラム\練習① 半波長ダイポール\tajimaＭＯＭ(保存用)\mm_wire115\mm_wire.vcproj'.">
+</Event><Event ErrorLevel="1" Project="mm_wire" Source="mm_wire.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="mm_wire" Source="mm_wire.vcproj" Description="MSB8012: $(TargetPath) ('E:\ゼミ\プログラム\練習① 半波長ダイポール\tajimaＭＯＭ(保存用)\mm_wire115\.\Debug\mm_wire.exe') does not match the Linker's OutputFile property value '.\Debug/mm_wire.exe' ('E:\ゼミ\プログラム\練習① 半波長ダイポール\tajimaＭＯＭ(保存用)\mm_wire115\Debug/mm_wire.exe') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="mm_wire" Source="mm_wire.vcproj" Description="MSB8012: $(TargetPath) ('E:\ゼミ\プログラム\練習① 半波長ダイポール\tajimaＭＯＭ(保存用)\mm_wire115\.\Release\mm_wire.exe') does not match the Linker's OutputFile property value '.\Release/mm_wire.exe' ('E:\ゼミ\プログラム\練習① 半波長ダイポール\tajimaＭＯＭ(保存用)\mm_wire115\Release/mm_wire.exe') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="mm_wire" Source="mm_wire.vcproj" Description="Done converting to new project file 'E:\ゼミ\プログラム\練習① 半波長ダイポール\tajimaＭＯＭ(保存用)\mm_wire115\mm_wire.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="mm_wire" Source="mm_wire.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="mm_wire.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="mm_wire.sln" Description="Converted">
+</Event></UpgradeLog>

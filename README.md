@@ -1,1 +1,1 @@
-"# NewsReader"  "# AnntenaSimulationPractice" 
+アンテナをモーメント法で計算するプログラム
